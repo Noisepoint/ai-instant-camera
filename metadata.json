@@ -1,0 +1,7 @@
+{
+  "name": "AI Instant Camera (AI 拍立得)",
+  "description": "An aesthetic, emotional AI-powered instant camera experience that simulates the magic of developing photos with mood-based generated text.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
